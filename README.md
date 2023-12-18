@@ -1,12 +1,12 @@
-java automated testing framework for testing web applications 
+Java Automated Testing Framework For E-Commerce Website
 
 Technologies Used : 
 
-java - 
-maven -
-testng -
-selenium -
-apache.poi -
-ashot 
+Java - 
+Maven -
+TestNg -
+Selenium -
+Apache.poi -
+Ashot 
 
 
