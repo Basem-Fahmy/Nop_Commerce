@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" ignored="1" total="3" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite_01" duration-ms="83325" started-at="2023-12-17T15:22:19 EET" finished-at="2023-12-17T15:23:43 EET">
+    <groups>
+    </groups>
+    <test name="Test_Cases" duration-ms="83325" started-at="2023-12-17T15:22:19 EET" finished-at="2023-12-17T15:23:43 EET">
+      <class name="Shopping_Cart.TC_01_Add_Product_To_Shopping_Cart">
+        <test-method status="PASS" signature="open_browser()[pri:0, instance:Shopping_Cart.TC_01_Add_Product_To_Shopping_Cart@40499e4f]" name="open_browser" is-config="true" duration-ms="508" started-at="2023-12-17T15:22:19 EET" finished-at="2023-12-17T15:22:20 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_browser -->
+        <test-method status="PASS" signature="TC_01(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Shopping_Cart.TC_01_Add_Product_To_Shopping_Cart@40499e4f]" name="TC_01" duration-ms="20723" started-at="2023-12-17T15:22:21 EET" finished-at="2023-12-17T15:22:42 EET">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Test]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[User_01]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[testmail.r1@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Test_User01]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[test000]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Company01_Test]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[pihibe_closetab.email]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[test123]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Test_mail@gmail.com]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[City_01_Test]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[Address_1_Test]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[Address_2_Test]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[test1234]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[test01234343]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[(866)544-7748]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[Apple MacBook Pro 13-inch]]>
+              </value>
+            </param>
+            <param index="16">
+              <value>
+                <![CDATA[product765]]>
+              </value>
+            </param>
+            <param index="17">
+              <value>
+                <![CDATA[New_FirstName01]]>
+              </value>
+            </param>
+            <param index="18">
+              <value>
+                <![CDATA[New_LastName01]]>
+              </value>
+            </param>
+            <param index="19">
+              <value>
+                <![CDATA[Address_1_New]]>
+              </value>
+            </param>
+            <param index="20">
+              <value>
+                <![CDATA[Address_2_New]]>
+              </value>
+            </param>
+            <param index="21">
+              <value>
+                <![CDATA[new000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_01 -->
+        <test-method status="PASS" signature="Close_browser()[pri:0, instance:Shopping_Cart.TC_01_Add_Product_To_Shopping_Cart@40499e4f]" name="Close_browser" is-config="true" duration-ms="637" started-at="2023-12-17T15:23:42 EET" finished-at="2023-12-17T15:23:43 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Close_browser -->
+      </class> <!-- Shopping_Cart.TC_01_Add_Product_To_Shopping_Cart -->
+      <class name="My_Account.TC_02_Click_Save_Without_Add_New_First_And_Last_Name">
+        <test-method status="PASS" signature="open_browser()[pri:0, instance:My_Account.TC_02_Click_Save_Without_Add_New_First_And_Last_Name@51cd7ffc]" name="open_browser" is-config="true" duration-ms="164" started-at="2023-12-17T15:22:42 EET" finished-at="2023-12-17T15:22:42 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_browser -->
+        <test-method status="FAIL" signature="TC_02(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:My_Account.TC_02_Click_Save_Without_Add_New_First_And_Last_Name@51cd7ffc]" name="TC_02" duration-ms="55702" started-at="2023-12-17T15:22:42 EET" finished-at="2023-12-17T15:23:38 EET">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Test]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[User_01]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[testmail.r1@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Test_User01]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[test000]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Company01_Test]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[pihibe_closetab.email]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[test123]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Test_mail@gmail.com]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[City_01_Test]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[Address_1_Test]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[Address_2_Test]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[test1234]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[test01234343]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[(866)544-7748]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[Apple MacBook Pro 13-inch]]>
+              </value>
+            </param>
+            <param index="16">
+              <value>
+                <![CDATA[product765]]>
+              </value>
+            </param>
+            <param index="17">
+              <value>
+                <![CDATA[New_FirstName01]]>
+              </value>
+            </param>
+            <param index="18">
+              <value>
+                <![CDATA[New_LastName01]]>
+              </value>
+            </param>
+            <param index="19">
+              <value>
+                <![CDATA[Address_1_New]]>
+              </value>
+            </param>
+            <param index="20">
+              <value>
+                <![CDATA[Address_2_New]]>
+              </value>
+            </param>
+            <param index="21">
+              <value>
+                <![CDATA[new000]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [You should enter new first and last name before saving] but found [The customer info has been updated successfully.]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [You should enter new first and last name before saving] but found [The customer info has been updated successfully.]
+at org.testng.Assert.fail(Assert.java:97)
+at org.testng.Assert.assertEqualsImpl(Assert.java:136)
+at org.testng.Assert.assertEquals(Assert.java:118)
+at org.testng.Assert.assertEquals(Assert.java:575)
+at org.testng.Assert.assertEquals(Assert.java:585)
+at My_Account.TC_02_Click_Save_Without_Add_New_First_And_Last_Name.TC_02(TC_02_Click_Save_Without_Add_New_First_And_Last_Name.java:45)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:584)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:172)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:804)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:145)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.util.ArrayList.forEach(ArrayList.java:1259)
+at org.testng.TestRunner.privateRun(TestRunner.java:770)
+at org.testng.TestRunner.run(TestRunner.java:591)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:402)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:396)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:355)
+at org.testng.SuiteRunner.run(SuiteRunner.java:304)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1180)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1102)
+at org.testng.TestNG.runSuites(TestNG.java:1032)
+at org.testng.TestNG.run(TestNG.java:1000)
+at org.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:72)
+at org.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:123)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_02 -->
+        <test-method status="PASS" signature="takescreenshoot()[pri:0, instance:My_Account.TC_02_Click_Save_Without_Add_New_First_And_Last_Name@51cd7ffc]" name="takescreenshoot" is-config="true" duration-ms="4434" started-at="2023-12-17T15:23:38 EET" finished-at="2023-12-17T15:23:42 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takescreenshoot -->
+      </class> <!-- My_Account.TC_02_Click_Save_Without_Add_New_First_And_Last_Name -->
+    </test> <!-- Test_Cases -->
+  </suite> <!-- Suite_01 -->
+</testng-results>
