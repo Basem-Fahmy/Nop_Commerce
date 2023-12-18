@@ -1,12 +1,12 @@
-java automated testing framework for testing web applications to ensure it is functional 
+java automated testing framework for testing web applications 
 
 Technologies Used : 
 
-java
-maven
-testng
-selenium
-apache.poi
-ashot
+java - 
+maven -
+testng -
+selenium -
+apache.poi -
+ashot -
 
 
