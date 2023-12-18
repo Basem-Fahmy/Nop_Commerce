@@ -7,6 +7,6 @@ maven -
 testng -
 selenium -
 apache.poi -
-ashot -
+ashot 
 
 
